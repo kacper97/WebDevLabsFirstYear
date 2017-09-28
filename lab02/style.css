@@ -1,0 +1,75 @@
+body{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size:small;
+}
+
+h1{
+  font-size: 150%;
+}
+
+p
+{
+ color: maroon;
+}
+
+body{
+  /* as before */
+  line-height: 1.6em; 
+}
+
+h2{
+  font-size: 130%;
+}
+
+h1, h2{
+  color: #007e7e;
+}
+
+h1{
+  border-bottom: 1px solid black;
+}
+
+em{
+  color:red;
+}
+
+p{
+  font-family:serif;
+}
+
+body{
+  font-size: small;
+}
+
+.special{
+  color: red;
+}
+p{
+  font-weight: bold;
+}
+
+h1{
+  font-weight: normal;
+}
+
+h2{
+	font-weight: normal;
+}
+
+body{
+  background-color:rgb(204,204,204);
+}
+
+.app
+{
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #000000;
+}
+
+.app
+{
+  /* as before */
+  margin: 30px;
+}
